@@ -1,2 +1,2 @@
-# spotifyclone
-CLONE USING html,css,js
+# clone 
+buliding is on the way 
