@@ -222,7 +222,7 @@ body {
 .songList ul {
     padding: 0 12px;
 }
-
+/* develop by kavya trivedi */
 .songList ul li {
     list-style-type: decimal;
     display: flex;
